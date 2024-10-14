@@ -1,0 +1,13 @@
+import java.util.*;
+
+class EntradaSalida {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        input.useLocale(Locale.US);
+
+        s1 = input.nextLine();
+
+        System.out.printf("La cadena que he leido es: %30", s1);    
+        input.close();
+    }
+}
