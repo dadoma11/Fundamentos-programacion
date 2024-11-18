@@ -1,3 +1,11 @@
+/* 
+* Grupo: Lab_B001 
+* Miembro 1: Daniel Domínguez Macías 
+* Miembro 2: Nadia Gonzalez Garcia
+* Miembro 3: Pablo Calderon Bermejo
+* Fecha: 11/11/2024
+* Descripción: Programa para indicar si un numero es o no primo. 
+* Versión: 1.0 */
 package Entregables;
 import java.util.Scanner;
 public class Primos {

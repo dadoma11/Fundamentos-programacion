@@ -1,4 +1,13 @@
+/* 
+* Grupo: Lab_B001 
+* Miembro 1: Daniel Domínguez Macías 
+* Miembro 2: Nadia Gonzalez Garcia
+* Miembro 3: Pablo Calderon Bermejo
+* Fecha: 11/11/2024
+* Descripción: Programa para hacer una piramede de asteriscos con bucles. 
+* Versión: 1.0 */
 package Entregables;
+
 
 import java.util.Scanner;
 

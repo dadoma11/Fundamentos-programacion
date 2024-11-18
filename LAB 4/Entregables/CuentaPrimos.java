@@ -1,3 +1,11 @@
+/* 
+* Grupo: Lab_B001 
+* Miembro 1: Daniel Domínguez Macías 
+* Miembro 2: Nadia Gonzalez Garcia
+* Miembro 3: Pablo Calderon Bermejo
+* Fecha: 11/11/2024
+* Descripción: Programa para indicar la cantidad e numeros primos desde 1 a X numero. 
+* Versión: 1.0 */
 package Entregables;
 import java.util.Scanner;
 public class CuentaPrimos {
